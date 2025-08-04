@@ -2,6 +2,9 @@
 Emotion classification using rat EEG signals
 # 🧠 Rat EEG AI Emotion Classifier
 
+🌍 Vision
+This project envisions a novel intersection between neuroscience and disaster management — leveraging the emotional responses of animals, specifically rats, as predictive signals for natural disasters such as earthquakes or floods. Animals are known to sense environmental changes before humans can, and by classifying their emotional states via EEG signals, we aim to build early-warning systems rooted in biology and artificial intelligence. This could open new frontiers in real-world disaster prediction, making responses faster and more reliable.
+
 A lightweight machine learning pipeline designed to classify emotional states (Calm vs. Aroused) in rats using EEG signals. This project extracts beta and gamma band powers from epicranial EEG and uses a logistic regression classifier to detect shifts in emotional state following whisker stimulation.
 
 > ⚠️ Note: Due to data loss, this repo presents the **architecture, methodology, and concept** of the project. Full code and pre/post stimulus notebooks are partially reconstructed and included as templates.
